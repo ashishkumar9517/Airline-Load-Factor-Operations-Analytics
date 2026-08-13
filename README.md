@@ -1,12 +1,6 @@
 # Airline-Load-Factor-Operations-Analytics
 SQL, Power BI &  Excel analysis of 110,851 U.S. domestic flights (2008-2013), tracking load factor trends, seasonality, and route saturation across 187M+ passengers.
 
-
-
-# Airline Performance Analytics Dashboard
-
-Load factor and route analysis on U.S. domestic airline data, 2008 to 2013. Covers 110,851 flights and 187M+ passengers. Built with SQL (MySQL), Excel & Power BI.
-
 ## Business Problem
 
 Airlines run on thin margins, and seat utilization (load factor) is one of the clearest levers for profitability. This project looks at six years of flight data to find where capacity is being wasted, which routes and carriers are running efficiently, and where seasonal or geographic patterns could inform pricing and fleet decisions.
